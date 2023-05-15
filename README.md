@@ -5,3 +5,5 @@
 # Freshen API
 
 Epitech EIP public repository, not all the time up to date.
+
+Freshen is an application that make discover new way to shop clothes thanks to thrift stores.
